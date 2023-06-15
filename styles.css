@@ -2,9 +2,6 @@ body {
   margin: 0px;
   background-size:100%;
 }
-/* #teste{
-  margin: 20px;
-} */
 .estiloesq{
   width: 48.9%;
   border: 1px solid black;
@@ -38,4 +35,9 @@ body {
   font-family: "Captura", Arial, sans-serif;
   height:60px;
   line-height:15px;
+}
+.button{
+  width:165px;
+  text-align:left;
+  margin-left:87.7%;
 }
